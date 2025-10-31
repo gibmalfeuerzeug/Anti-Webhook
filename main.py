@@ -10,8 +10,8 @@ from discord import AuditLogAction
 TOKEN = os.getenv("DISCORD_TOKEN", "").strip()
 NOTIFY_CHANNEL_ID = 123456789012345678  # Channel-ID für Benachrichtigungen (int)
 WHITELIST = {
-    111111111111111111,  # erlaubte User-IDs (als ints)
-    222222222222222222,
+    843180408152784936,  # erlaubte User-IDs (als ints)
+    662596869221908480,
 }
 AUDIT_LOOKBACK_SECONDS = 5  # wie frisch der Audit-Log-Eintrag sein muss
 TIMEOUT_HOURS = 2  # Timeout-Dauer für Verstöße
