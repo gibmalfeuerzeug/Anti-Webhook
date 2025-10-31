@@ -1,2 +1,0 @@
-# Anti-Webhook
-for nc
